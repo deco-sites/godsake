@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://godsake-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "ab3d8a085bfbf10f190a700a1a3b8849f4c8c6c38656dd63cf597c4cfb5607f18806bcebfccc7cdf8cbb6267e2f985625cc6a59be8335f317a29718641bcc85c60de982fea8c7ad76e1ab42a836bba7307145cfea26537c9670d6704f80c98159701f38aec32883f152bc2dd4213216a86d58e0365649715e563fcedad9c451d6f4a407dfcc381d18c23290ddc667fae59301956d7f32e1e706ce360a1d4436ea51f39b4f3a62ac95ad3716cbde60a15d2949d9746d982ffd2d64b8283c1f144a4ef095de56afa501df8d67ab171246f78f56f84c474ae0f0e6f369a73f346b1"
+  }
+}
